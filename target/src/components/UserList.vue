@@ -310,6 +310,9 @@
 </script>
 
 <style scoped>
+  .listBox{
+    padding: 20px;
+  }
 .addPart{
   margin-bottom: 20px;
 }

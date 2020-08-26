@@ -79,6 +79,7 @@
 .pswBox{
   width: auto;
   height: 100%;
+  padding: 20px;
   overflow: hidden;
 }
 </style>

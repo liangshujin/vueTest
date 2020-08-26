@@ -2,7 +2,7 @@
     <div class="loginPage">
       <el-row type="flex" class="row-bg loginCont" justify="center" align="middle">
         <el-col :span="6" class="logoBox">
-          <img src="../assets/img/Licence_72.png">
+          <img src="../assets/img/target_72.png">
           <p>全球定位目标输入平台</p>
         </el-col>
         <el-col :span="16">

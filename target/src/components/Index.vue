@@ -213,7 +213,7 @@ function(res){
   margin: 0 0px 0 30px;
 }
 .el-main{
-  padding: 20px;
+  padding: 0px !important;
 }
 .el-header,.el-footer{
   padding: 0 20px;
